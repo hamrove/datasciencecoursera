@@ -1,4 +1,4 @@
-## Big headings
+## Big heading
 
 ### Little heading
 
